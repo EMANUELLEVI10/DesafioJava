@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 90vh;
+    flex-wrap: wrap;
+    font-size: 20px;
+}
+
+.container button{
+    width: 100px;
+    height: 70px;
+    border-radius: 20px;
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(229, 255, 0);
+}
+
+.soma{
+    color: rgb(252, 246, 246);
+    background-color: rgb(1, 0, 3);
+    border-radius: 15px;
+    text-align: center;
+    font-family: 'Gill Sans';
+    
+}
+
+.nome{
+    color: rgb(255, 255, 255);
+    background-color: rgb(9, 7, 14);
+    border-radius: 15px;
+    text-align: center;
+    font-family: 'Gill Sans';
+    
+}
